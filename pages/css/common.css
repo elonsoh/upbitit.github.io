@@ -1,9 +1,9 @@
 /*  [Default]  */
 @charset "utf-8";
-@import url('http://fonts.googleapis.com/css?family=Noto+Sans');
-@import url('http://fonts.googleapis.com/earlyaccess/notosanskr.css');
-@import url('http://fonts.googleapis.com/css?family=Droid+Sans');
-@import url('http://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,pre,a,abbr,acronym,cite,code,del,dfn,em,img,ins,q,s,samp,strike,strong,sub,sup,u,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,embed { margin:0;padding:0;border:0;font-size:100%;font:inherit; }
 body { background:#ffffff;color:#2b2b2b;font:normal 12px 'Droid Sans','AppleSDGothicNeo-Regular','Malgun Gothic','Dotum',sans-serif; }
